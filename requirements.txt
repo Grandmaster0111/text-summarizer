@@ -1,0 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+accelerate
+langchain
+langchain-huggingface
+langchain_community
+langchain_core
+streamlit
+transformers
+python-dotenv
