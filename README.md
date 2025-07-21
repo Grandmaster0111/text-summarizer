@@ -13,3 +13,33 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/text-summarizer.git
 cd text-summarizer
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 3. Activate the Virtual Environment
+
+## For Windows:
+```bash
+.\venv\Scripts\activate
+```
+
+## For linux:
+```bash
+source venv/bin/activate
+```
+
+### 4. Install Required Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### ▶️ Running the App
+```bash
+streamlit run text.py
+```
