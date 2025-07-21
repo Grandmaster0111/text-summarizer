@@ -23,12 +23,12 @@ python -m venv venv
 
 ### 3. Activate the Virtual Environment
 
-## For Windows:
+- **On Windows:**
 ```bash
 .\venv\Scripts\activate
 ```
 
-## For linux:
+- **On Linux:**
 ```bash
 source venv/bin/activate
 ```
